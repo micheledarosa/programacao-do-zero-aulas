@@ -1,10 +1,10 @@
 ## 👩‍💻 BOOTCAMP DIO Potência Tech iFood - Programação do Zero 👩‍💻
 
-Repositório destinado ao estudo sobre **JavaScript** acompanhado nas aulas da plataforma [DIO](https://www.dio.me/).
+Repositório destinado ao estudo sobre **Lógica de Programação**, utilizando a linguagem **JavaScript**, acompanhado nas aulas da plataforma [DIO](https://www.dio.me/).
 
-O Bootcamp teve início com os cursos _"Trabalhando em Equipes Ágeis"_ e _"Versionamento de Código com Git e GitHub"_. Em seguida, avançamos para o aprimoramento da lógica de programação e o estudo da linguagem **JavaScript**. 
+O Bootcamp teve início com os cursos _"Trabalhando em Equipes Ágeis"_ e _"Versionamento de Código com Git e GitHub"_. Em seguida, avançamos para o aprimoramento da lógica de programação.
 
-Desde conceitos introdutórios, como algoritmos, variáveis e estruturas condicionais, até a implementação avançada de estruturas de repetição e o entendimento profundo de operadores lógicos e de comparação, o programa proporciona um mundo com jornada completa, onde ainda sigo desbravando 🦸🗡️
+Desde conceitos introdutórios, como algoritmos, variáveis e estruturas condicionais, até a implementação avançada de estruturas de repetição e o entendimento profundo de operadores lógicos e de comparação, finalizando com funções, o programa proporciona um mundo com jornada completa, onde desbravei corajosamente 🦸🗡️
 
 ## 🛠️ Editores utilizados nas aulas 🛠️
 
@@ -13,9 +13,9 @@ Desde conceitos introdutórios, como algoritmos, variáveis e estruturas condici
 
 ## Desafios
 
-O código dos desafios será aprimorado à medida que avanço meus estudos!
-
 - 🦸 [Classificador de Nível de Herói](https://github.com/micheledarosa/desafio-classificador-de-nivel-de-heroi)
+- 🏆 [Calculadora de Partidas Rankeadas](https://github.com/micheledarosa/desafio-calculadora-de-partidas-rankeadas)
+- 🧙‍♂️ [Escrevendo as Classes de um Jogo](https://github.com/micheledarosa/desafio-escrevendo-as-classes-de-um-jogo)
 
 
 ## ✨ Boas práticas aprendidas durante o Bootcamp ✨
